@@ -4,4 +4,4 @@
 
 
 
-<img src="first.png" alt="first" style="zoom:30%;" /><img src="second.png" alt="second" style="zoom:30%;" />
+<img src="first.png" alt="first" style="width:30%;" /><img src="second.png" alt="second" style="width:30%;" />
